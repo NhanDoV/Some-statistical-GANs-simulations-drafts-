@@ -1,1 +1,10 @@
-
+|=============================================================================================================================|
+|                                                   GENERAL DESCRIPTIONS                                                      |
+|=============================================================================================================================|
+|     This folder is the first step: "INTRODUCTION TO IMAGE PROCESSING & COMPUTER VISION", We have 2 chapters in this:        |
+|           Chapter 1. GETTING STARTED.                                                                                       |
+|                   In this chapter, I will introduce how to read and load the image with OpenCV, Skimage's libraries.        |     
+|.............................................................................................................................|
+|           Chapter 2. THE BASIC DRAWING FUNCTION.                                                                            |
+|                   In the last chapter, you will learn many geometric shapes with OpenCV.                                    |
+|=============================================================================================================================|
