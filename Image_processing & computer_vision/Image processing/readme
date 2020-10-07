@@ -1,0 +1,40 @@
+|=============================================================================================================================|
+|                                                   GENERAL DESCRIPTIONS                                                      |
+|=============================================================================================================================|
+|       In this track, you will learn how to implement IMAGE PROCESSING by using OpenCV and also skimage.                     |
+|       We will focus on the following chapters:                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------------|
+|           CHAPTER 1. CHANGING PIXEL CHANELS & COLOR-SPACES.                                                                 |
+|            Link                                                                                                             |
+|           CHAPTER 2. GEOMETRIC TRANSFORMATION OF IMAGES.
+|
+|           CHAPTER 3. IMAGE THRESH-HOLDING.
+|
+|           CHAPTER 4. SMOOTHING IMAGES.
+|
+|           CHAPTER 5. MORPHOLOGICAL TRANSFORMATIONS.
+|
+|           CHAPTER 6. IMAGE GRADIENTS.
+|
+|           CHAPTER 7. CANNY EDGE DETECTION.
+|
+|           CHAPTER 8. IMAGE PYRAMIDS.
+|
+|           CHAPTER 10. COUNTOURS IN OPENCV.
+|
+|           CHAPTER 11. HISTOGRAMS OF IMAGE IN OPENCV.
+|
+|           CHAPTER 12. IMAGE TRANSFORM.
+|
+|           CHAPTER 13. TEMPLATE MATCHING.
+|
+|           CHAPTER 14. HOUGH LINE TRANSFORM.
+|
+|           CHAPTER 15. HOUGH CIRCLE TRANSFORM.
+|
+|           CHAPTER 16. IMAGE SEGMENTATION WITH WATERSHED ALGORITHM.
+|
+|           CHAPTER 17. INTERACTIVE FOREGROUND EXTRACION USING GRAB-CUT ALGORITHM.
+|
+|===============================================================================================================================
+
